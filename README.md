@@ -1,5 +1,5 @@
 # TCyclometric
-Fivewin for (x)Harbour Rating class 
+Fivewin for (x)Harbour TCyclometric class 
 
 Cyclometry is based on an abstract concept in which the ninety numbers reported around a circumference are imagined, 
 in progressive order, from the first point, which represents the number 1,
